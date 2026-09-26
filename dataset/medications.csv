@@ -1,0 +1,28 @@
+patient_id,medication,dosage,frequency
+P101,Lisinopril,20 mg,Once daily
+P101,Furosemide,40 mg,Twice daily
+P101,Metformin,1000 mg,Twice daily
+P101,Carvedilol,12.5 mg,Twice daily
+P101,Empagliflozin,10 mg,Once daily
+P102,Amlodipine,5 mg,Once daily
+P102,Atorvastatin,20 mg,Once daily at bedtime
+P102,Aspirin,81 mg,Once daily
+P103,Oral Multivitamin,1 tablet,Once daily
+P104,Tiotropium Bromide Respimat,2.5 mcg,2 puffs once daily
+P104,Albuterol (Salbutamol) HFA,90 mcg,2 puffs every 4 hours PRN
+P104,Prednisone,40 mg,Once daily (short burst)
+P105,None,N/A,N/A
+P106,Omeprazole,20 mg,Once daily PRN
+P107,Lorazepam,1 mg,Once daily at bedtime
+P107,Zolpidem Tartrate,10 mg,Once daily at bedtime
+P107,Oxybutynin Chloride,5 mg,Twice daily
+P107,Diphenhydramine,25 mg,Nightly PRN for sleep
+P107,Acetaminophen,650 mg,Every 8 hours PRN
+P108,Insulin Glargine,24 units,Subcutaneously at bedtime
+P108,Metformin ER,1000 mg,Once daily with dinner
+P108,Glipizide,10 mg,Once daily before breakfast
+P108,Lisinopril,10 mg,Once daily
+P109,None,N/A,N/A
+P110,Lisinopril,20 mg,Once daily
+P110,Ibuprofen (OTC),800 mg,Three times daily with meals
+P110,Tamsulosin,0.4 mg,Once daily at bedtime

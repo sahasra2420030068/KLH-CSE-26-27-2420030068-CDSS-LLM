@@ -1,0 +1,62 @@
+[
+  {
+    "patient_id": "P101",
+    "date": "2026-09-18",
+    "clinical_note": "Patient presents for 3-month follow-up of HFrEF and T2D. Reports gradual worsening of shortness of breath on climbing one flight of stairs and 2-pillow orthopnea. Mild bilateral ankle edema noticed in evenings. Denies acute chest pain, palpitations, or syncope. Adherent to daily medications but notes occasional lightheadedness when standing up quickly.",
+    "symptoms": ["Exertional dyspnea", "Orthopnea", "Bilateral pedal edema", "Postural lightheadedness", "Fatigue"]
+  },
+  {
+    "patient_id": "P102",
+    "date": "2026-09-20",
+    "clinical_note": "52-year-old male presents to outpatient clinic describing intermittent retrosternal chest tightness for 2 weeks, typically occurring when walking up inclines, lasting 5-10 minutes and resolving with rest. Today experienced an episode while gardening that lasted 15 minutes with mild diaphoresis. Family history significant for premature CAD (father had MI at 48). Smokes 1 pack/day.",
+    "symptoms": ["Retrosternal chest tightness", "Exertional chest discomfort", "Diaphoresis", "Mild dyspnea"]
+  },
+  {
+    "patient_id": "P103",
+    "date": "2026-09-15",
+    "clinical_note": "34-year-old female presents reporting progressive, debilitating fatigue over the past 4 months. Complains of cold intolerance, brittle nails, and frequent headaches. Menstrual cycles have become heavy (soaking through pads every 2 hours on days 1-3). Denies melena, hematochezia, or weight loss. Vegetarians for 3 years.",
+    "symptoms": ["Chronic fatigue", "Menorrhagia", "Cold intolerance", "Brittle nails", "Headaches", "Exertional weakness"]
+  },
+  {
+    "patient_id": "P104",
+    "date": "2026-09-21",
+    "clinical_note": "74-year-old male with 45 pack-year smoking history presents with 4 days of increased cough with thick yellow-green sputum production, audible expiratory wheezing, and worsened exercise tolerance. Patient has been using rescue albuterol inhaler every 3 hours with minimal relief. Denies pleuritic chest pain or hemoptysis.",
+    "symptoms": ["Productive cough with purulent sputum", "Expiratory wheezing", "Severe breathlessness", "Increased rescue inhaler usage"]
+  },
+  {
+    "patient_id": "P105",
+    "date": "2026-09-10",
+    "clinical_note": "29-year-old male presents for routine annual preventative wellness visit and clearance for recreational marathon training. Completely asymptomatic. Exercises 5 times weekly. Denies tobacco or recreational drug use. Alcohol 1-2 drinks on weekends. Family history negative for early cardiovascular disease.",
+    "symptoms": ["None / Asymptomatic"]
+  },
+  {
+    "patient_id": "P106",
+    "date": "2026-09-22",
+    "clinical_note": "45-year-old male brought in by family with acute episodic right upper quadrant abdominal pain radiating to the right scapula, onset 6 hours following a high-fat meal. Associated with low-grade fever, nausea, and two episodes of non-bilious vomiting. Exam reveals focal tenderness in RUQ with inspiratory arrest. NOTE: Patient refused initial blood draw in triage and vital signs monitor was disconnected; pending baseline vitals and complete metabolic panel.",
+    "symptoms": ["Right upper quadrant pain", "Inspiratory arrest (Murphy sign)", "Nausea", "Postprandial vomiting", "Subjective chills"]
+  },
+  {
+    "patient_id": "P107",
+    "date": "2026-09-19",
+    "clinical_note": "79-year-old female accompanied by daughter who reports mother has suffered two near-falls this week when getting out of bed at night. Appears mildly drowsy and disoriented to month. Daughter notes patient takes OTC sleep aids along with prescribed nighttime tranquilizers for anxiety and an overactive bladder medication.",
+    "symptoms": ["Unsteady gait", "Near-falls", "Daytime somnolence", "Mild disorientation", "Dry mouth", "Nocturia"]
+  },
+  {
+    "patient_id": "P108",
+    "date": "2026-09-14",
+    "clinical_note": "61-year-old male with poorly controlled diabetes presents for routine review. Admits to missing insulin doses over the last two months due to work travel. Complains of burning sensation and numbness in both feet, especially at night. Polydipsia and polyuria persist. Visual acuity subjectively blurry over past month.",
+    "symptoms": ["Bilateral burning feet dysesthesias", "Nocturnal paresthesia", "Polydipsia", "Polyuria", "Blurred vision"]
+  },
+  {
+    "patient_id": "P109",
+    "date": "2026-09-23",
+    "clinical_note": "24-year-old female presents with 3-day history of acute burning micturition, increased urinary frequency every 30 minutes, and suprapubic cramping. Denies flank pain, high fever, or vaginal discharge. Patient stresses a severe anaphylactic reaction to Amoxicillin in childhood requiring epinephrine.",
+    "symptoms": ["Dysuria", "Urinary frequency", "Suprapubic pain", "Urinary urgency"]
+  },
+  {
+    "patient_id": "P110",
+    "date": "2026-09-22",
+    "clinical_note": "82-year-old male with known CKD Stage 3 presents with severe weakness, anorexia, and decreased urine output over the last 48 hours following a 3-day bout of diarrheal illness. Patient reports taking over-the-counter high-dose ibuprofen (800 mg tid) for knee pain along with his regular Lisinopril. Dry mucous membranes and sunken eyes on exam.",
+    "symptoms": ["Oliguria", "Severe lethargy", "Recent gastroenteritis", "Dry mucous membranes", "Severe muscular weakness"]
+  }
+]

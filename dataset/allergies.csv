@@ -1,0 +1,11 @@
+patient_id,allergen,reaction
+P101,Sulfa Antibiotics,Maculopapular cutaneous rash
+P102,NKDA (No Known Drug Allergies),None
+P103,Sulfamethoxazole-Trimethoprim,Severe urticaria and facial pruritus
+P104,NKDA (No Known Drug Allergies),None
+P105,NKDA (No Known Drug Allergies),None
+P106,Codeine,Severe nausea and emesis
+P107,NKDA (No Known Drug Allergies),None
+P108,Lisinopril-induced dry cough,Severe intractable dry cough (reported 2021)
+P109,Amoxicillin / Penicillin,Anaphylaxis requiring IM Epinephrine and hospitalization
+P110,Aspirin,Bronchospasm and wheezing

@@ -1,0 +1,28 @@
+patient_id,condition,diagnosis_date,status
+P101,Heart Failure with Reduced Ejection Fraction (HFrEF EF 35%),2022-04-12,Active
+P101,Type 2 Diabetes Mellitus,2017-08-15,Active
+P101,Chronic Kidney Disease Stage 3a,2023-01-10,Active
+P101,Essential Hypertension,2015-06-20,Active
+P102,Essential Hypertension,2019-11-04,Uncontrolled
+P102,Dyslipidemia,2020-02-18,Active
+P102,Tobacco Use Disorder (30 pack-years),2008-01-01,Active
+P103,Heavy Menstrual Bleeding (Menorrhagia),2024-05-10,Active
+P103,Iron Deficiency Anemia,2026-09-15,New Diagnosis
+P104,Chronic Obstructive Pulmonary Disease (GOLD Group E),2018-09-03,Exacerbation
+P104,Cor Pulmonale,2024-02-14,Active
+P104,Tobacco Use Disorder (45 pack-years),1992-06-01,Active
+P105,None (Healthy Baseline),2026-09-10,Inactive
+P106,Suspected Acute Cholecystitis,2026-09-22,Pending Workup
+P106,Mild Gastroesophageal Reflux Disease (GERD),2021-03-12,Intermittent
+P107,Major Neurocognitive Disorder (Mild),2024-11-05,Active
+P107,Primary Osteoarthritis of Bilateral Knees,2016-08-22,Active
+P107,Overactive Bladder Syndrome,2023-04-19,Active
+P107,Chronic Insomnia,2018-10-14,Active
+P108,Type 2 Diabetes Mellitus (Uncontrolled),2014-07-29,Active Poor Control
+P108,Diabetic Peripheral Neuropathy,2024-01-18,Active Progressive
+P108,Diabetic Microalbuminuria,2025-06-11,Active
+P108,Primary Hypertension,2016-03-09,Active
+P109,Acute Uncomplicated Cystitis,2026-09-23,Active Acute
+P110,Chronic Kidney Disease Stage 3b (Baseline Cr 1.6),2021-10-02,Acute-on-Chronic Exacerbation
+P110,Hypertensive Nephrosclerosis,2019-05-14,Active
+P110,Benign Prostatic Hyperplasia,2020-08-20,Active
